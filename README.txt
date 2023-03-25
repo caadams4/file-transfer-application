@@ -1,5 +1,3 @@
-Programming Assignment 1 - CISC450. 
-Author: Charles Adams
 
 CAUTION: Don't run this with SUDO, client can steal protected files :)
 

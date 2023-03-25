@@ -1,0 +1,6 @@
+This was a very cool project. 
+Without filtering the client file request, the client can steal files from
+directories outside of /server/ folder. IF the server service is run with 
+SUDO, the client can steal sensitive files like the /etc/passwd or 
+/etc/shadow
+VERY COOL!!!
